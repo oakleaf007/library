@@ -1,0 +1,15 @@
+1️⃣ Library Management System
+
+Requirements:
+
+Add, remove, and search books by title/id/author.
+
+Each book has ID, title, author, and availability.
+
+use LinkedList to store books
+
+Use ArrayList<Book> to fetch books.
+
+Handle invalid IDs using custom exceptions.
+
+Use StringBuilder for search messages./result
